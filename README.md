@@ -5,5 +5,5 @@ Server emits events every 100 ms and client retrieves those events, buffers them
 
 Endpoints:
 
-* server: curl -i http://localhost:8080/infos
-* client: curl -i http://localhost:8081/
+* server: `curl -i http://localhost:8080/infos`
+* client: `curl -i http://localhost:8081/`
